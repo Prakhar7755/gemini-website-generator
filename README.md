@@ -26,7 +26,7 @@ Live Deployment :
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prakhar7755/gemini-website-generator.git
    cd ai-website-builder
    ```
 
