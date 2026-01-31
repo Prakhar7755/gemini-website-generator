@@ -1,7 +1,8 @@
 # WebBuilder - AI Website Generator
 
 WebBuilder is a modern, AI-powered application that allows users to generate fully functional website code using natural language prompts. Built with React, Tailwind CSS, and Google's Gemini 2.5 Flash model, it provides an instant live preview and a code editor for seamless development.
-Live Deployment : 
+
+Live Deployment : https://gemini-website-generator.vercel.app
 
 ## 🚀 Features
 
